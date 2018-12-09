@@ -4,7 +4,7 @@
     steem: dsteem instance for utils.
 */
 
-module.exports = function(client, steem, prefix) {
+module.exports = function(client, steem, prefix='') {
   return {
     json: function(username,privateKeyString,id,json,callback) {
       var key = steem.PrivateKey.fromString(privateKeyString);
