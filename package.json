@@ -1,11 +1,19 @@
 {
   "name": "steem-transact",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A framework for developing soft-consensus applications on the Steem blockchain.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "nicholas-2 (shredz7)",
-  "license": "MIT"
+  "author": "nicholas2519@gmail.com",
+  "license": "MIT",
+  "repository":"https://github.com/nicholas-2/steem-transact",
+  "homepage":"https://github.com/nicholas-2/steem-transact",
+  "keywords": [
+    "blockchain",
+    "cryptocurrency",
+    "dsteem",
+    "steem"
+  ]
 }
