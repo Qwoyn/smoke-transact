@@ -1,6 +1,6 @@
 {
   "name": "smoke-transact",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A framework for developing soft-consensus applications on the Smoke blockchain.",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,19 @@
   },
   "author": "daniel.pittman@qwoyn.io",
   "license": "MIT",
-  "repository":"https://github.com/Qwoyn/smoke-transact",
-  "homepage":"https://qwoyn.io",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qwoyn/smoke-transact.git"
+  },
+  "homepage": "https://qwoyn.io",
   "keywords": [
     "blockchain",
     "cryptocurrency",
     "dsteem",
     "steem",
-	"smoke"
-  ]
+    "smoke"
+  ],
+  "bugs": {
+    "url": "https://github.com/Qwoyn/smoke-transact/issues"
+  }
 }
