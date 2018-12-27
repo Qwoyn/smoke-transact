@@ -1,19 +1,20 @@
 {
-  "name": "steem-transact",
-  "version": "1.0.2",
-  "description": "A framework for developing soft-consensus applications on the Steem blockchain.",
+  "name": "smoke-transact",
+  "version": "0.1.0",
+  "description": "A framework for developing soft-consensus applications on the Smoke blockchain.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "nicholas2519@gmail.com",
+  "author": "daniel.pittman@qwoyn.io",
   "license": "MIT",
-  "repository":"https://github.com/nicholas-2/steem-transact",
-  "homepage":"https://github.com/nicholas-2/steem-transact",
+  "repository":"https://github.com/Qwoyn/smoke-transact",
+  "homepage":"https://qwoyn.io",
   "keywords": [
     "blockchain",
     "cryptocurrency",
     "dsteem",
-    "steem"
+    "steem",
+	"smoke"
   ]
 }
